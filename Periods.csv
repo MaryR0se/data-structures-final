@@ -1,0 +1,152 @@
+Timestamp,State,Sex,Age,BCcat,BCbool,Mood,Energy,Hunger,Sweet,Salty,Savory,Bitter,Sour,Product
+4/27/2022 11:21:27,On period,Female,19,Hormonal IUD,1,8,3,8,1,1,1,0,0,No preference
+4/28/2022 12:29:22,Not on period,Female,19,The Pill,1,5,5,5,1,1,0,0,0,Tampons
+4/28/2022 12:30:05,Not on period,Female,21,Arm Implant,1,8,8,5,1,1,1,0,0,Tampons
+4/28/2022 12:30:39,On period,Female,20,The Pill,1,6,6,8,0,1,0,0,0,Pads
+4/28/2022 12:30:42,Not on period,Female,20,None,0,7,7,9,1,0,0,0,0,No preference
+4/28/2022 12:31:11,Not on period,Female,19,None,0,7,7,7,1,0,0,0,0,Menstrual Cup
+4/28/2022 12:31:15,Not on period,Female,20,None,0,8,4,5,1,1,0,0,0,Menstrual Cup
+4/28/2022 12:31:20,Not on period,Female,20,The Pill,1,3,2,7,1,1,0,0,0,Menstrual Cup
+4/28/2022 12:31:23,Not on period,Female,21,None,0,4,3,8,1,0,0,0,1,Menstrual Cup
+4/28/2022 12:31:26,On period,Female,21,None,0,3,3,5,0,1,0,0,0,No preference
+4/28/2022 12:31:26,Don't get periods,Female,21,The Pill,1,9,8,8,1,1,0,0,0,Tampons
+4/28/2022 12:32:31,Don't get periods,Male,22,None,0,9,10,8,0,1,1,0,0,None
+4/28/2022 12:33:03,Don't get periods,Male,21,None,0,8,6,3,1,1,0,0,0,None
+4/28/2022 12:33:10,Not on period,Female,20,None,0,7,4,6,1,1,0,0,1,Pads
+4/28/2022 12:34:01,On period,Female,19,None,0,5,4,3,1,0,0,0,0,Tampons
+4/28/2022 12:34:02,Not on period,Female,19,The Pill,1,7,6,7,1,1,1,1,1,Pads
+4/28/2022 12:34:05,Don't get periods,Male,20,None,0,6,1,3,1,0,0,0,0,No preference
+4/28/2022 12:34:06,Don't get periods,Female,19,Arm Implant,1,8,3,5,1,1,1,0,1,Tampons
+4/28/2022 12:34:07,On period,Female,21,Arm Implant,1,6,6,7,1,0,0,0,1,Menstrual Cup
+4/28/2022 12:34:13,Not on period,Female,19,The Pill,1,5,6,3,1,0,0,0,0,Tampons
+4/28/2022 12:34:24,Not on period,Female,18,Hormonal IUD,1,9,9,1,0,1,1,0,0,No preference
+4/28/2022 12:34:53,Not on period,Female,20,Copper IUD,1,8,3,1,1,0,0,0,0,Tampons
+4/28/2022 12:35:22,Not on period,Female,19,The Shot,1,5,3,3,1,0,1,0,0,Tampons
+4/28/2022 12:35:55,Not on period,Female,21,None,0,4,5,7,1,0,0,0,0,Tampons
+4/28/2022 12:36:56,Not on period,Female,20,Arm Implant,1,6,1,5,0,1,1,0,0,Tampons
+4/28/2022 12:37:47,Don't get periods,Male,19,None,0,3,3,7,1,0,1,0,0,None
+4/28/2022 12:37:54,Don't get periods,Male,18,Ugly,0,4,4,4,1,1,1,1,1,None
+4/28/2022 12:37:58,Don't get periods,Male,20,None,0,8,7,5,0,1,1,1,1,None
+4/28/2022 12:38:04,Don't get periods,Male,19,None,0,8,7,9,1,1,1,0,1,None
+4/28/2022 12:38:17,Don't get periods,Male,18,None,0,6,4,4,0,0,0,0,1,None
+4/28/2022 12:38:45,Don't get periods,Male,18,None,0,7,7,8,0,1,0,0,1,None
+4/28/2022 12:39:27,Not on period,Female,18,None,0,7,6,5,1,1,0,0,0,Menstrual Cup
+4/28/2022 12:39:45,Not on period,Female,18,The Pill,1,4,3,3,0,0,1,0,0,Tampons
+4/28/2022 12:39:51,On period,Female,19,The Shot,1,5,7,6,1,0,0,0,1,Menstrual Cup
+4/28/2022 12:40:05,On period,Female,20,Hormonal IUD,1,4,8,7,0,0,1,0,0,Pads
+4/28/2022 12:40:22,Not on period,Female,20,None,0,8,8,3,0,1,1,0,0,Menstrual Cup
+4/28/2022 12:40:38,Not on period,Female,19,The Pill,1,8,5,6,1,0,1,0,0,Menstrual Cup
+4/28/2022 12:42:43,Don't get periods,Male,23,None,0,6,6,8,0,0,1,0,0,None
+4/28/2022 12:42:51,Don't get periods,Male,29,None,0,1,7,6,0,0,1,0,0,None
+4/28/2022 12:42:56,Don't get periods,Female,22,Hormonal IUD,1,3,1,4,1,1,1,1,1,Menstrual Cup
+4/28/2022 12:43:06,Don't get periods,Male,33,None,0,8,6,2,1,0,0,0,0,None
+4/28/2022 12:43:18,Don't get periods,Male,27,None,0,5,4,5,1,0,0,0,0,None
+4/28/2022 12:43:39,Don't get periods,Female,23,Hormonal IUD,1,7,5,1,0,1,0,0,0,Tampons
+4/28/2022 12:47:15,Not on period,Female,19,The Pill,1,8,6,6,1,1,0,0,0,Tampons
+4/28/2022 12:55:44,Not on period,Female,19,None,0,6,7,6,1,0,0,0,0,Pads
+4/28/2022 12:57:29,Not on period,Female,18,None,0,4,5,9,0,0,1,0,0,Menstrual Cup
+4/28/2022 13:02:01,Not on period,Female,27,Arm Implant,1,3,4,9,1,1,0,0,0,Pads
+4/28/2022 13:02:10,Not on period,Female,19,None,0,4,5,4,0,0,1,0,0,Pads
+4/28/2022 13:02:42,On period,Female,20,None,0,8,8,6,1,0,0,0,0,Pads
+4/28/2022 13:03:27,Not on period,Female,19,The Pill,1,9,3,4,1,0,1,0,0,Pads
+4/28/2022 13:03:32,Don't get periods,Female,22,The Pill,1,8,6,4,1,0,0,0,1,Pads
+4/28/2022 13:03:51,Don't get periods,Female,22,Hormonal IUD,1,5,2,3,0,0,0,0,0,No preference
+4/28/2022 13:04:00,Don't get periods,Male,22,None,0,8,2,4,0,0,1,0,0,None
+4/28/2022 13:04:12,Don't get periods,Male,20,None,0,8,7,8,1,1,1,0,0,None
+4/28/2022 13:04:22,Don't get periods,Male,20,None,0,5,7,6,0,0,1,0,0,None
+4/28/2022 13:04:26,On period,Female,19,None,0,6,3,7,1,1,0,0,0,Pads
+4/28/2022 13:04:45,Don't get periods,Male,21,None,0,4,4,7,0,0,0,0,1,None
+4/28/2022 13:05:10,On period,Female,20,The Pill,1,5,4,6,1,1,0,0,0,Tampons
+4/28/2022 13:05:30,Not on period,Female,19,None,0,6,8,7,1,0,0,0,0,Tampons
+4/28/2022 13:06:08,Not on period,Female,20,The Pill,1,8,8,3,0,1,0,0,0,Pads
+4/28/2022 13:07:32,Not on period,Female,21,None,0,4,6,5,1,1,1,0,0,Tampons
+4/28/2022 13:07:58,Not on period,Female,20,The Pill,1,5,3,3,1,0,0,0,0,Pads
+4/28/2022 13:08:14,Not on period,Female,22,None,0,3,4,5,0,0,1,0,0,Pads
+4/28/2022 13:08:18,Not on period,Female,19,Arm Implant,1,4,7,6,0,0,1,0,0,Pads
+4/28/2022 13:08:42,Not on period,Female,18,Copper IUD,1,8,7,5,1,1,0,0,0,Pads
+4/28/2022 13:08:47,Don't get periods,Male,20,None,0,6,7,2,1,0,0,0,1,None
+4/28/2022 13:09:54,On period,Female,22,None,0,4,3,5,0,1,0,0,0,Menstrual Cup
+4/28/2022 13:10:32,Not on period,Female,21,None,0,3,2,7,0,1,1,0,0,Pads
+4/28/2022 13:10:36,Don't get periods,Male,20,None,0,1,3,7,0,0,1,0,0,None
+4/28/2022 13:10:45,Don't get periods,Female,21,Hormonal IUD,1,6,4,5,1,0,0,0,0,Menstrual Cup
+4/28/2022 13:10:46,Not on period,Female,20,None,0,5,3,8,0,1,1,0,0,Pads
+4/28/2022 13:10:53,Not on period,Female,21,The Pill,1,6,6,6,0,0,1,0,0,Pads
+4/28/2022 13:11:01,Not on period,Female,19,Hormonal IUD,1,3,4,5,0,1,1,0,0,Tampons
+4/28/2022 13:11:07,On period,Female,20,The Pill,1,3,2,3,1,1,0,0,0,Tampons
+4/28/2022 13:11:29,Not on period,Female,20,None,0,3,3,3,0,1,1,0,0,Tampons
+4/28/2022 13:12:01,Not on period,Female,18,Arm Implant,1,9,3,8,0,1,1,0,0,Menstrual Cup
+4/28/2022 13:12:46,Not on period,Female,19,None,0,9,8,6,0,1,1,0,0,Pads
+4/28/2022 13:13:58,Not on period,Female,18,None,0,10,10,10,1,1,1,0,0,Period underwear 
+4/28/2022 13:14:10,Not on period,Female,18,None,0,9,6,9,10,0,1,0,1,Pads
+4/28/2022 13:21:08,Not on period,Female,19,Testosterone ,1,8,4,7,0,1,1,0,0,Pads
+4/28/2022 13:26:18,Not on period,Female,22,None,0,8,3,1,0,1,0,0,0,Tampons
+4/28/2022 13:26:42,Not on period,Female,21,None,0,8,8,7,0,1,0,0,0,Pads
+4/28/2022 13:27:16,Not on period,Female,25,Arm Implant,1,7,6,5,1,0,0,0,0,Tampons
+4/28/2022 13:27:41,Not on period,Female,30,Copper IUD,1,7,7,6,0,0,1,0,0,Tampons
+4/28/2022 13:27:46,Don't get periods,Male,33,None,0,5,2,5,0,0,1,0,0,None
+4/28/2022 13:29:25,Not on period,Female,32,None,0,7,5,2,1,0,0,0,0,Menstrual Cup
+4/28/2022 13:31:26,Don't get periods,Male,19,None,0,10,10,1,1,0,0,0,0,None
+4/28/2022 13:31:34,Don't get periods,Male,25,None,0,10,4,7,0,0,1,0,1,None
+4/28/2022 13:31:36,Don't get periods,Male,63,None,0,8,5,4,0,0,1,0,0,None
+4/28/2022 13:33:36,Not on period,Female,21,None,0,6,7,6,1,0,0,0,0,Pads
+4/28/2022 13:35:53,Not on period,Female,23,The Pill,1,7,4,6,0,1,1,0,0,Pads
+4/28/2022 13:41:21,Not on period,Female,19,Hormonal IUD,1,8,3,5,0,1,1,0,0,Menstrual Cup
+4/28/2022 13:41:38,Not on period,Female,19,The Pill,1,6,3,7,1,0,0,0,0,Pads
+4/28/2022 13:41:49,On period,Female,20,None,0,3,4,7,1,0,1,0,0,Pads
+4/28/2022 13:41:58,Not on period,Female,22,Hormonal IUD,1,8,7,5,0,0,0,0,0,Tampons
+4/28/2022 13:42:33,Don't get periods,Male,22,None,0,10,7,10,0,1,1,1,1,None
+4/28/2022 13:42:58,Not on period,Female,19,The Pill,1,5,8,5,1,0,0,0,1,Tampons
+4/28/2022 13:51:16,Not on period,Female,,Hormonal IUD,1,9,9,7,0,1,0,0,0,Pads
+4/28/2022 13:52:17,Not on period,Female,21,The Pill,1,10,5,2,1,1,0,0,0,Pads
+4/28/2022 13:55:01,Not on period,Female,20,The Pill,1,6,5,4,0,0,1,0,0,Pads
+4/28/2022 13:55:15,Not on period,Female,20,The Pill,1,3,8,6,1,0,0,0,0,No preference
+4/28/2022 13:55:17,Don't get periods,Male,22,None,0,8,7,7,1,0,0,0,0,None
+4/28/2022 13:55:40,Don't get periods,Female,32,Hormonal IUD,1,4,3,5,1,1,0,0,0,Pads
+4/28/2022 13:56:57,Don't get periods,Male,49,None,0,10,8,2,1,0,0,0,0,None
+4/28/2022 13:56:59,On period,Female,21,The Pill,1,7,8,5,0,0,1,0,0,Tampons
+4/28/2022 13:58:41,On period,Female,21,Arm Implant,1,5,3,4,0,1,1,0,0,Menstrual Cup
+4/28/2022 13:58:44,On period,Female,22,Hormonal IUD,1,7,3,7,1,0,1,0,0,Menstrual Cup
+4/28/2022 13:59:03,Don't get periods,Male,22,None,0,9,4,10,0,0,1,0,0,None
+4/28/2022 13:59:15,Not on period,Female,21,Nuba ring ,1,7,4,10,1,0,0,0,0,Menstrual Cup
+4/28/2022 14:00:30,Don't get periods,Female,11,None,0,8,6,7,1,0,1,0,0,None
+4/28/2022 14:00:44,On period,Female,21,Hormonal IUD,1,9,7,5,0,1,0,0,0,Tampons
+4/28/2022 14:01:19,On period,Female,20,The Pill,1,5,3,7,1,1,1,0,0,Menstrual Cup
+4/28/2022 14:07:22,Not on period,Female,21,None,0,4,8,4,1,1,1,0,0,Tampons
+4/28/2022 14:07:27,Don't get periods,Female,21,Hormonal IUD,1,5,5,7,0,1,0,0,0,None
+4/28/2022 14:08:26,Not on period,Female,20,Arm Implant,1,6,8,8,1,0,0,0,0,Pads
+4/28/2022 14:10:22,Don't get periods,Male,20,None,0,7,8,9,1,0,0,0,0,None
+4/28/2022 14:11:00,Don't get periods,Male,20,None,0,8,6,8,0,1,1,0,0,None
+4/28/2022 14:11:30,Not on period,Female,19,None,0,6,5,6,1,1,0,0,0,Pads
+4/28/2022 14:12:48,Don't get periods,Male,20,None,0,2,6,6,1,0,0,0,0,None
+4/28/2022 14:13:22,Not on period,Female,22,None,0,8,4,5,0,0,1,0,0,Pads
+4/28/2022 14:29:59,Not on period,Female,19,The Pill,1,6,9,4,1,1,1,0,0,Pads
+4/28/2022 14:49:46,Not on period,Female,17,None,0,7,5,6,1,1,1,0,0,Pads
+4/28/2022 15:01:08,Don't get periods,Male,22,None,0,6,7,6,0,0,1,0,0,None
+4/28/2022 15:06:16,On period,Female,16,None,0,2,6,5,1,0,0,0,0,Tampons
+4/28/2022 15:09:28,Don't get periods,Male,21,None,0,6,5,4,1,1,0,0,0,None
+4/28/2022 15:19:57,Don't get periods,Male,18,None,0,8,6,7,1,1,1,0,0,None
+4/28/2022 15:28:34,Not on period,Female,22,None,0,6,6,7,0,1,1,0,0,Tampons
+4/28/2022 15:28:43,Not on period,Female,18,None,0,8,4,3,0,1,0,1,0,Menstrual Cup
+4/28/2022 15:30:57,Don't get periods,Male,17,None,0,3,4,3,0,1,0,0,0,None
+4/28/2022 15:37:10,Not on period,Female,20,None,0,10,7,8,1,1,1,0,0,Tampons
+4/28/2022 15:39:29,On period,Female,19,The Pill,1,8,5,7,1,1,0,0,0,Pads
+4/28/2022 15:41:08,Don't get periods,Male,22,None,0,3,3,10,1,0,1,0,0,None
+4/28/2022 15:52:11,Not on period,Female,20,None,0,9,5,4,1,1,0,1,0,Tampons
+4/28/2022 16:01:54,Not on period,Female,22,None,0,7,4,8,0,1,1,0,0,Tampons
+4/28/2022 16:04:42,On period,Female,18,The Pill,1,5,8,6,1,0,1,0,0,Pads
+4/28/2022 16:07:41,Not on period,Female,20,None,0,10,6,7,1,1,1,0,0,Pads
+4/28/2022 16:08:14,Not on period,Female,20,None,0,8,4,5,0,0,1,0,0,Pads
+4/28/2022 16:13:50,Not on period,Female,24,The Pill,1,4,3,3,1,1,0,0,0,Pads
+4/28/2022 16:22:53,Not on period,Female,18,The Pill,1,7,3,5,0,1,1,0,0,Pads
+4/28/2022 17:13:54,Not on period,Female,17,None,0,10,7,6,0,0,1,0,0,Tampons
+4/28/2022 17:34:07,Not on period,Female,18,None,0,9,4,7,1,0,1,0,0,Pads
+4/28/2022 17:48:49,Not on period,Female,20,The Pill,1,3,8,6,1,0,0,0,0,both pads and tampons 
+4/28/2022 18:25:14,Not on period,Female,16,None,0,8,5,6,0,1,1,0,0,Pads
+4/28/2022 23:00:42,Not on period,Female,15,None,0,4,3,5,0,1,0,0,1,Pads
+4/28/2022 23:48:04,Don't get periods,Male,19,None,0,10,10,9,0,1,1,0,0,None
+4/29/2022 2:53:45,Not on period,Female,31,None,0,5,1,10,1,1,1,0,0,Pads
+4/29/2022 4:01:46,Not on period,Female,22,None,0,5,2,5,1,0,0,0,0,Pads
+4/29/2022 7:20:13,Not on period,Female,17,None,0,10,6,7,0,0,1,0,0,the mouthes of my enemies.
+4/29/2022 7:38:29,Not on period,Female,47,None,0,8,7,8,0,0,1,0,0,Tampons
+4/29/2022 11:07:18,Not on period,Female,19,None,0,6,3,6,0,0,1,0,0,Pads
+4/29/2022 14:50:14,Not on period,Female,17,None,0,6,6,4,0,1,0,0,0,Menstrual Cup
